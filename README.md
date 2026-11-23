@@ -96,12 +96,12 @@ javac *.java
 
 ### 5.2 Launch Interactive Console Application
 ```bash
-java Main
+java Main.Java
 ```
 
 ### 5.3 Run Standalone Automated Unit & Integration Tests
 ```bash
-java SystemTest
+java SystemTest.Java
 ```
 
 ---
